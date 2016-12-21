@@ -1,0 +1,164 @@
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\ApplicationInsights.config
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\csc.exe
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\vbc.exe
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Blog.dll.config
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Blog.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Blog.pdb
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Antlr3.Runtime.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\EntityFramework.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.Web.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Newtonsoft.Json.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Owin.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.Helpers.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.Mvc.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.Optimization.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.Razor.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.WebPages.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\WebGrease.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.Web.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.Helpers.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.Mvc.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.Optimization.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.Razor.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.WebPages.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Newtonsoft.Json.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\EntityFramework.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Acer Nitro Black\Desktop\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+C:\Users\Acer Nitro Black\Desktop\Blog\obj\Debug\Blog.dll
+C:\Users\Acer Nitro Black\Desktop\Blog\obj\Debug\Blog.pdb
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\ApplicationInsights.config
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\csc.exe
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\vbc.exe
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Blog.dll.config
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Blog.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Blog.pdb
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Antlr3.Runtime.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\EntityFramework.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.Web.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Newtonsoft.Json.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Owin.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.Helpers.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.Mvc.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.Optimization.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.Razor.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.WebPages.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\WebGrease.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.Web.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.Helpers.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.Mvc.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.Optimization.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.Razor.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.WebPages.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Antlr3.Runtime.pdb
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Newtonsoft.Json.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\EntityFramework.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\obj\Debug\Blog.dll
+C:\Users\Acer Nitro Black\Desktop\Project (Not working)\Blog\obj\Debug\Blog.pdb
