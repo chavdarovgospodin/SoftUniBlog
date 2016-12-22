@@ -281,29 +281,29 @@ namespace Blog.Controllers
         }
 
         [HttpPost]
-        public async Task<ActionResult> UploadPhoto(HttpPostedFileBase file)
+        public async Task<ActionResult> UploadPhoto(HttpPostedFileBase file) // choose a file to upload
         {
-            if (file!=null && file.ContentLength>0)
+            if (file!=null && file.ContentLength>0) // declare the file extensions 
             {
-                var user = await GetCurrentUserAsync();
-                var username = user.UserName;
-                var fileExt = Path.GetExtension(file.FileName);
-                var fnm = username + ".png";
+                var user = await GetCurrentUserAsync(); // get the current user
+                var username = user.UserName;                                // get user and username
+                var fileExt = Path.GetExtension(file.FileName);              // get file extension
+                var fnm = username + ".png";                                  //asign the username and the name of the image
                 if (fileExt.ToLower().EndsWith(".png")||fileExt.ToLower().EndsWith(".jpg")||fileExt.ToLower().EndsWith(".gif"))
                 {
-                    var filePath = HostingEnvironment.MapPath("~/Content/images/profile/") + fnm;
-                    var directory = new DirectoryInfo(HostingEnvironment.MapPath("~/Content/images/profile/"));
-                    if (directory.Exists==false)
-                    {
-                        directory.Create();
-                    }
-                    ViewBag.FilePath = filePath.ToString();
+                    var filePath = HostingEnvironment.MapPath("~/Content/images/profile/") + fnm;  // declare the path of your file 
+                    var directory = new DirectoryInfo(HostingEnvironment.MapPath("~/Content/images/profile/"));  // check if directory exists
+                    if (directory.Exists==false)                                                                 // to save the file
+                    {                                                                                            // if not create it
+                        directory.Create();                                                                      // 
+                    }                                                                                            // 
+                    ViewBag.FilePath = filePath.ToString();                                                      // 
                     file.SaveAs(filePath);
-                    return RedirectToAction("Index", new { Message = ManageMessageId.PhotoUploadSuccess });
+                    return RedirectToAction("Index", new { Message = ManageMessageId.PhotoUploadSuccess }); // save file
                 }
                 else
                 {
-                    return RedirectToAction("Index", new { Message = ManageMessageId.FileExtensionError });
+                    return RedirectToAction("Index", new { Message = ManageMessageId.FileExtensionError }); // unsuported file
                 }
             }
             return RedirectToAction("Index", new { Message = ManageMessageId.Error });
@@ -408,7 +408,8 @@ namespace Blog.Controllers
 
         private async Task<ApplicationUser> GetCurrentUserAsync()
         {
-            return await UserManager.FindByIdAsync(User.Identity.GetUserId());
+            return await UserManager.FindByIdAsync(User.Identity.GetUserId()); // get user security info for the http request
+            // get identity of the current principle , return the user ID and find by user ID
         }
 
         public enum ManageMessageId

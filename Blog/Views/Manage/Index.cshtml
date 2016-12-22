@@ -15,13 +15,13 @@
         <dd>
             @if (User.Identity.GetUserName()!=null)
             {
-                var imgUrl=Url.Content("~/Content/images/profile/"+User.Identity.GetUserName()+".png")+"?time="+DateTime.Now.ToString();
+                var imgUrl=Url.Content("~/Content/images/profile/"+User.Identity.GetUserName()+".png")+"?time="+DateTime.Now.ToString(); // get image path and asign it as image element source
                 <div class="upimage">
                     <div class="accimg">
                         <img src="@imgUrl" height="250" width="250"/>
                         </div>
                     <div class="mnimg">
-                        @using (Html.BeginForm("UploadPhoto","Manage",FormMethod.Post,new{enctype ="multipart/form-data"}))
+                        @using (Html.BeginForm("UploadPhoto","Manage",FormMethod.Post,new{enctype ="multipart/form-data"})) // form to call UploadPhotoMethod
                         {
                             <div class="btn btn-default browseimg">
                                 <input type="file" name="file" id="files" onchange="this.form.submit()"/>

@@ -8,7 +8,7 @@
     <ul class="nav navbar-nav navbar-right">
         <li>
         @{
-            var imgUrl= Url.Content("~/Content/images/profile/"+User.Identity.GetUserName()+".png")+"?time="+DateTime.Now.ToString();
+            var imgUrl= Url.Content("~/Content/images/profile/"+User.Identity.GetUserName()+".png")+"?time="+DateTime.Now.ToString();//display image in the menu
         }
             <img src="@imgUrl"height="80" width="80"/>
             </li>
