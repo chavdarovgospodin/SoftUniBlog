@@ -91,7 +91,7 @@ namespace Blog.Controllers
 
                     var article = new Article(authorId, model.Title, model.Content, model.CategoryId);
 
-                    this.SetArticleTags(article, model, database);
+                    //this.SetArticleTags(article, model, database);
 
                     database.Articles.Add(article);
                     database.SaveChanges();
